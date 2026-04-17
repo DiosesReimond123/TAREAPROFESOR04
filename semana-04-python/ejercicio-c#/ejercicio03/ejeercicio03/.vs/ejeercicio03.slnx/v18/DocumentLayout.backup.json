@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\UPN\\Downloads\\python2\\TAREAPROFESOR04\\semana-04-python\\ejercicio-c#\\ejercicio03\\ejeercicio03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F42123B-3C44-410E-A1E3-4448BD1E3A4F}|ejeercicio03.csproj|c:\\users\\upn\\downloads\\python2\\tareaprofesor04\\semana-04-python\\ejercicio-c#\\ejercicio03\\ejeercicio03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F42123B-3C44-410E-A1E3-4448BD1E3A4F}|ejeercicio03.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Downloads\\python2\\TAREAPROFESOR04\\semana-04-python\\ejercicio-c#\\ejercicio03\\ejeercicio03\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\UPN\\Downloads\\python2\\TAREAPROFESOR04\\semana-04-python\\ejercicio-c#\\ejercicio03\\ejeercicio03\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T23:55:29.154Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

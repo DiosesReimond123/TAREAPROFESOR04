@@ -1,0 +1,7 @@
+C:\Users\UPN\Downloads\python2\TAREAPROFESOR04\semana-04-python\ejercicio-c#\ejercicio03\ejeercicio03\bin\Debug\ejeercicio03.exe.config
+C:\Users\UPN\Downloads\python2\TAREAPROFESOR04\semana-04-python\ejercicio-c#\ejercicio03\ejeercicio03\bin\Debug\ejeercicio03.exe
+C:\Users\UPN\Downloads\python2\TAREAPROFESOR04\semana-04-python\ejercicio-c#\ejercicio03\ejeercicio03\bin\Debug\ejeercicio03.pdb
+C:\Users\UPN\Downloads\python2\TAREAPROFESOR04\semana-04-python\ejercicio-c#\ejercicio03\ejeercicio03\obj\Debug\ejeercicio03.csproj.AssemblyReference.cache
+C:\Users\UPN\Downloads\python2\TAREAPROFESOR04\semana-04-python\ejercicio-c#\ejercicio03\ejeercicio03\obj\Debug\ejeercicio03.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Downloads\python2\TAREAPROFESOR04\semana-04-python\ejercicio-c#\ejercicio03\ejeercicio03\obj\Debug\ejeercicio03.exe
+C:\Users\UPN\Downloads\python2\TAREAPROFESOR04\semana-04-python\ejercicio-c#\ejercicio03\ejeercicio03\obj\Debug\ejeercicio03.pdb
